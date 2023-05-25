@@ -20,9 +20,10 @@ img{
 	color:#777777;
 }
 
-.price-block{
+div.price-block{
 	background-color:#2ecc71;
 	text-align:center;
 	height:20px;
+	color:white;
 	border-radius:5px;
 }
