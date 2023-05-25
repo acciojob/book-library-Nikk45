@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.book, .heading{
+	background-color:#f8f8f8;
+	margin: 20px 0px;
+	padding:20px;
+}
+.heading{
+	text-align:center;
+	
+}
+img{
+	margin:0px  35%;
+}
+
+.book-library{
+	background-color:#ffffff;
+}
+
+.author{
+	color:#777777;
+}
+
+.price-block{
+	background-color:#2ecc71;
+	text-align:center;
+	height:20px;
+	border-radius:5px;
+}
